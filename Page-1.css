@@ -1,0 +1,573 @@
+.u-section-1 {
+  background-image: url("images/pexels-photo-3049731.jpeg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  letter-spacing: normal;
+  font-weight: normal;
+  font-style: normal;
+  margin: 258px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 6rem;
+  letter-spacing: 4px;
+  font-weight: 600;
+  font-style: italic;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 62px;
+  width: 62px;
+  animation-duration: 10000ms;
+  color: rgb(255, 255, 255) !important;
+  margin: 421px auto 0;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 32px;
+  width: 32px;
+  animation-duration: 10000ms;
+  color: rgb(255, 255, 255) !important;
+  margin: -47px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-icon-2 {
+    transition-duration: 0.5s;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    background-size: 120%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    background-size: auto 140%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 541px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin: 60px auto 60px 0;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 431px;
+  pointer-events: auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 34px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  margin: 37px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 431px;
+  pointer-events: auto;
+  background-image: url("images/rainbow-inn-grenville.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 355px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 355px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 272px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 408px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-1 {
+    min-height: 257px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 125px;
+}
+
+.u-section-3 .u-text-1 {
+  text-transform: uppercase;
+  width: 115px;
+  margin: 30px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  width: 456px;
+  font-style: italic;
+  font-size: 1.875rem;
+  margin: 5px auto 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-2 {
+    transition-duration: 2.5s;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-2 {
+    width: 340px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 582px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 570px;
+  height: 291px;
+  margin: 191px auto 0;
+}
+
+.u-section-4 .u-list-1 {
+  grid-template-rows: auto;
+  width: 1140px;
+  margin: -466px 0 0;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 3.33333px) calc(33.3333% - 3.33333px) calc(33.3333% - 3.33333px);
+  grid-gap: 5px 5px;
+  min-height: 522px;
+}
+
+.u-section-4 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/rainbow-inn-0.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 269px 183px 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 21px;
+}
+
+.u-section-4 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/rainbow-inn.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-3 {
+  margin: 269px 89px 0 0;
+}
+
+.u-section-4 .u-text-4 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 21px;
+}
+
+.u-section-4 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/rainbow-inn-2.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-5 {
+  margin: 269px 84px 0 0;
+}
+
+.u-section-4 .u-text-6 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 21px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-image-1 {
+    margin-top: 130px;
+  }
+
+  .u-section-4 .u-list-1 {
+    width: 940px;
+    margin-top: -406px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+    min-height: 430px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-5 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-image-1 {
+    margin-top: 657px;
+  }
+
+  .u-section-4 .u-list-1 {
+    width: 720px;
+    margin-top: -933px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    min-height: 988px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 567px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 540px;
+    height: 276px;
+    margin-top: 987px;
+  }
+
+  .u-section-4 .u-list-1 {
+    width: 540px;
+    margin-top: -1248px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 465px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 340px;
+    height: 174px;
+    margin-top: 1038px;
+  }
+
+  .u-section-4 .u-list-1 {
+    width: 340px;
+    margin-top: -1197px;
+  }
+}.u-section-5 {
+  background-image: url("images/8e15123ed42af15f67ff9546b49c7471e227c22bb79b8d3fb92e80f7122b9774fd7fae3c283de72ccaf030b1b8edf8a1b216f70b6fd6b88b5ef1dc_1280.jpg");
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 723px;
+}
+
+.u-section-5 .u-text-1 {
+  letter-spacing: 1px;
+  line-height: 1.2;
+  font-size: 3.75rem;
+  text-transform: none;
+  width: 668px;
+  font-weight: 700;
+  margin: 120px auto 0;
+}
+
+.u-section-5 .u-list-1 {
+  grid-template-rows: repeat(1, auto);
+  margin: 50px auto 60px 0;
+}
+
+.u-section-5 .u-repeater-1 {
+  grid-template-columns: repeat(3, calc(33.3333% - 17.3333px));
+  min-height: 352px;
+  grid-gap: 26px;
+}
+
+.u-section-5 .u-list-item-1 {
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-icon-1 {
+  height: 126px;
+  width: 126px;
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-text-2 {
+  font-size: 1.875rem;
+  width: 238px;
+  margin: 30px auto 0;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-5 .u-icon-2 {
+  width: 36px;
+  height: 36px;
+  margin: 30px auto 0;
+}
+
+.u-section-5 .u-list-item-2 {
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-5 .u-icon-3 {
+  height: 126px;
+  width: 126px;
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-text-4 {
+  font-size: 1.875rem;
+  width: 238px;
+  margin: 30px auto 0;
+}
+
+.u-section-5 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+.u-section-5 .u-icon-4 {
+  width: 36px;
+  height: 36px;
+  margin: 30px auto 0;
+}
+
+.u-section-5 .u-list-item-3 {
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-5 .u-icon-5 {
+  height: 126px;
+  width: 126px;
+  background-image: none;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-text-6 {
+  font-size: 1.875rem;
+  width: 238px;
+  margin: 30px auto 0;
+}
+
+.u-section-5 .u-text-7 {
+  margin: 20px 0 0;
+}
+
+.u-section-5 .u-icon-6 {
+  width: 36px;
+  height: 36px;
+  margin: 30px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-5 .u-sheet-1 {
+    min-height: 584px;
+  }
+
+  .u-section-5 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 960px;
+  }
+
+  .u-section-5 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 13px));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-text-1 {
+    width: 540px;
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-repeater-1 {
+    grid-template-columns: repeat(1, 100%);
+  }
+
+  .u-section-5 .u-text-2 {
+    font-size: 2.25rem;
+    width: 323px;
+  }
+
+  .u-section-5 .u-text-4 {
+    font-size: 2.25rem;
+    width: 323px;
+  }
+
+  .u-section-5 .u-text-6 {
+    font-size: 2.25rem;
+    width: 323px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1497px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: 340px;
+    margin-top: 60px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-5 .u-text-2 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-5 .u-text-3 {
+    width: auto;
+  }
+
+  .u-section-5 .u-text-4 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-5 .u-text-5 {
+    width: auto;
+  }
+
+  .u-section-5 .u-text-6 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-5 .u-text-7 {
+    width: auto;
+  }
+}
